@@ -3,4 +3,4 @@
 
 require File.expand_path('../config/application', __FILE__)
 
-RootstrapBlogHtml::Application.load_tasks
+Railsroot::Application.load_tasks

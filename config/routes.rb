@@ -1,2 +1,2 @@
-RootstrapBlogHtml::Application.routes.draw do
+Railsroot::Application.routes.draw do
 end
